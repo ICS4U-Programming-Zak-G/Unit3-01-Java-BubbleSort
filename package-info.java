@@ -1,6 +1,6 @@
 /** .
 * This is the package info for bubble sort.
-* 
+*
 * This program uses a bubble sort.
 * The bubble sort will sort an array of numbers.
 *
